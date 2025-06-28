@@ -1,0 +1,14 @@
+train: ../FinalDataset/train
+val:   ../FinalDataset/val
+
+nc: 9
+names:
+  0: Takeoff
+  1: Land
+  2: Left_x
+  3: Left_y
+  4: Right_x
+  5: Right_y
+  6: Forward
+  7: Backward
+  8: Toggle
